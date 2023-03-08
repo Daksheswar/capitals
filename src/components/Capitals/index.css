@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #93c5fd;
+}
+
+.white-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.span {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.sel {
+  display: flex;
+}
+
+.result {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+}
